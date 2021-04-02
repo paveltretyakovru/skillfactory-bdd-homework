@@ -1,0 +1,20 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:frontend": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "serve-bin": "^0.0.1"
+  }
+}
